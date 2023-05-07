@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Text Portraits
+
+My Text Portraits app rewritten in React. Generate text portraits by uploading an image and inputting your text.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
