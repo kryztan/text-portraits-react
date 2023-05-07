@@ -1,6 +1,6 @@
-## Text Portraits
+# Text Portraits
 
-My Text Portraits app rewritten in React. Generate text portraits by uploading an image and inputting your text.
+Text Portraits app rewritten in React. Generate text portraits by uploading an image and inputting your text.
 
 ## Getting Started with Create React App
 
